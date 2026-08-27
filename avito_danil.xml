@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Ads formatVersion="3" target="Avito.ru">
+  <Ad>
+    <Id>danil_af9fb1cb</Id>
+    <DateBegin>2026-08-27T12:21:00</DateBegin>
+    <AllowEmail>false</AllowEmail>
+    <Category>Ноутбуки</Category>
+    <Title>Игровой ноутбук RAZER RAZER 15 RZ09-0301 RTX 2080</Title>
+    <Description>💻 Игровой ноутбук RAZER RAZER 15 RZ09-0301 (RTX 2080 / I7 9750H)
+
+Перед заказом — просьба писать в чат!
+
+Здравствуйте! Меня зовут Данил. С 2016 года занимаюсь ноутбуками и помогаю подобрать проверенный вариант под задачи и бюджет.
+
+🧾 Напишите в чат «проверка ноутбука» — пришлю живое видео и чек-лист проведённых тестов.
+
+💻 О модели
+
+RAZER RAZER 15 RZ09-0301 — сбалансированный ноутбук для работы, учёбы и игр. Связка процессор I7 9750H и видеокарта RTX 2080 уверенно тянет современные программы и игры. Ноутбук полностью протестирован и готов к работе.
+
+⚙️ Характеристики
+
+Процессор — I7 9750H
+Видеокарта — RTX 2080
+Экран — 15.6" 1920×1080
+ОЗУ — 8 / 16 / 32 / 64 ГБ
+SSD — 256 / 512 / 1024 / 2048 ГБ
+
+💰 Цена указана за комплектацию без SSD и ОЗУ. Можно бесплатно установить свои комплектующие или подобрать нужный объём перед покупкой.
+
+✅ Полная проверка перед продажей
+✅ Trade-in
+✅ Рассрочка / сплит
+✅ Установка ОЗУ и SSD
+✅ Доставка по Москве и РФ
+
+📩 Напишите в чат — покажу ноутбук и подробно расскажу о состоянии.
+
+📌 Категории состояния:
+
+A — новые ноутбуки в заводской коробке и полном комплекте.
+B — б/у ноутбуки с небольшими следами использования, полностью исправные и протестированные.
+C — ноутбуки с техническими нюансами, но в рабочем состоянии. На такие варианты действует дополнительная скидка.</Description>
+    <Price>68500</Price>
+    <Currency>RUB</Currency>
+    <Condition>Б/у</Condition>
+    <BoxSealed>Нет</BoxSealed>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Address>Москва, Будайский пр., 7к1</Address>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Vendor>RAZER</Vendor>
+    <DrivesConfig>SSD</DrivesConfig>
+    <DriveSize>512</DriveSize>
+    <RamSize>16</RamSize>
+    <OperatingSystem>Windows 11</OperatingSystem>
+    <Color>Чёрный</Color>
+    <Devicework>Включается</Devicework>
+    <AkbH>Больше 30 минут</AkbH>
+    <Set>Зарядное устройство, коробка</Set>
+    <KBLayout>Есть кириллица</KBLayout>
+    <CaseCondition>Без дефектов</CaseCondition>
+    <ScreenCondition>Без дефектов</ScreenCondition>
+    <KBCondition>Без дефектов</KBCondition>
+    <Delivery>
+      <Option>Выключена</Option>
+    </Delivery>
+    <Quantity>1</Quantity>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Bid>2</Bid>
+        <DailyLimit>100</DailyLimit>
+      </Item>
+    </PromoManualOptions>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787816874935_3836_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787816883801_3836_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787816894175_3836_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787816904206_3836_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787816916902_3836_5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787816926251_3836_6.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_1.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_2.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_3.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_4.png"/>
+    </Images>
+  </Ad>
+</Ads>
