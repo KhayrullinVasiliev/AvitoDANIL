@@ -70,7 +70,7 @@ C — ноутбуки с техническими нюансами, но в р�
     <PromoManualOptions>
       <Item>
         <Bid>2</Bid>
-        <DailyLimit>100</DailyLimit>
+        <DailyLimit>1000</DailyLimit>
       </Item>
     </PromoManualOptions>
     <Images>
@@ -156,7 +156,7 @@ C — ноутбуки с техническими нюансами, но в р�
     <PromoManualOptions>
       <Item>
         <Bid>2</Bid>
-        <DailyLimit>100</DailyLimit>
+        <DailyLimit>1000</DailyLimit>
       </Item>
     </PromoManualOptions>
     <Images>
@@ -165,6 +165,92 @@ C — ноутбуки с техническими нюансами, но в р�
       <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787828945734_3844_3.jpg"/>
       <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787828954104_3844_4.jpg"/>
       <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787828964056_3844_5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_1.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_2.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_3.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_4.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_5.png"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>danil_82ce805e</Id>
+    <DateBegin>2026-08-27T15:03:00+03:00</DateBegin>
+    <AllowEmail>false</AllowEmail>
+    <Category>Ноутбуки</Category>
+    <Title>Ноутбук HP Omen 15 1060</Title>
+    <Description>💻 Ноутбук HP Omen 15 (1060 / i5-8300H)
+
+Перед заказом — просьба писать в чат!
+
+Здравствуйте! Меня зовут Данил. С 2016 года занимаюсь ноутбуками и помогаю подобрать проверенный вариант под задачи и бюджет.
+
+🧾 Напишите в чат «проверка ноутбука» — пришлю живое видео и чек-лист проведённых тестов.
+
+💻 О модели
+
+HP Omen 15 — сбалансированный ноутбук для работы, учёбы и игр. Связка процессор i5-8300H и видеокарта 1060 уверенно тянет современные программы и игры. Ноутбук полностью протестирован и готов к работе.
+
+⚙️ Характеристики
+
+Процессор — i5-8300H
+Видеокарта — 1060
+Экран — 15,6" 1920×1080
+ОЗУ — 8 / 16 / 32 / 64 ГБ
+SSD — 256 / 512 / 1024 / 2048 ГБ
+
+Цена указана за комплектацию без SSD и ОЗУ. Можно бесплатно установить свои комплектующие или подобрать нужный объём перед покупкой.
+
+✅ Полная проверка перед продажей
+✅ Trade-in
+✅ Рассрочка / сплит
+✅ Установка ОЗУ и SSD
+✅ Доставка по Москве и РФ
+
+📩 Напишите в чат — покажу ноутбук и подробно расскажу о состоянии.
+
+📌 Категории состояния:
+
+A — новые ноутбуки в заводской коробке и полном комплекте.
+B — б/у ноутбуки с небольшими следами использования, полностью исправные и протестированные.
+C — ноутбуки с техническими нюансами, но в рабочем состоянии. На такие варианты действует дополнительная скидка.</Description>
+    <Price>36500</Price>
+    <Currency>RUB</Currency>
+    <Condition>Б/у</Condition>
+    <BoxSealed>Нет</BoxSealed>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Address>Москва, Будайский пр., 7к1</Address>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Vendor>HP</Vendor>
+    <Model>Другая</Model>
+    <DrivesConfig>SSD</DrivesConfig>
+    <DriveSize>512</DriveSize>
+    <RamSize>16</RamSize>
+    <OperatingSystem>Windows 11</OperatingSystem>
+    <Color>Чёрный</Color>
+    <Devicework>Включается</Devicework>
+    <AkbH>Больше 30 минут</AkbH>
+    <Set>Зарядное устройство|Коробка</Set>
+    <KBLayout>Есть кириллица</KBLayout>
+    <CaseCondition>Без дефектов</CaseCondition>
+    <ScreenCondition>Без дефектов</ScreenCondition>
+    <KBCondition>Без дефектов</KBCondition>
+    <Delivery>
+      <Option>Самовывоз с онлайн-оплатой</Option>
+    </Delivery>
+    <Quantity>1</Quantity>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Bid>2</Bid>
+        <DailyLimit>1000</DailyLimit>
+      </Item>
+    </PromoManualOptions>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787829333634_3845_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787829351983_3845_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787829360630_3845_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787829369208_3845_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787829378882_3845_5.jpg"/>
       <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_1.png"/>
       <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_2.png"/>
       <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_3.png"/>
