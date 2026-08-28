@@ -1,351 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
-    <Id>danil_af9fb1cb</Id>
-    <DateBegin>2026-08-27T12:21:00+03:00</DateBegin>
-    <AllowEmail>false</AllowEmail>
-    <Category>Ноутбуки</Category>
-    <Title>Игровой ноутбук RAZER 15 RTX 2080</Title>
-    <Description>💻 Игровой ноутбук RAZER 15 (RTX 2080 / I7 9750H)
-
-Перед заказом — просьба писать в чат!
-
-Здравствуйте! Меня зовут Данил. С 2016 года занимаюсь ноутбуками и помогаю подобрать проверенный вариант под задачи и бюджет.
-
-🧾 Напишите в чат «проверка ноутбука» — пришлю живое видео и чек-лист проведённых тестов.
-
-💻 О модели
-
-RAZER 15 — сбалансированный ноутбук для работы, учёбы и игр. Связка процессор I7 9750H и видеокарта RTX 2080 уверенно тянет современные программы и игры. Ноутбук полностью протестирован и готов к работе.
-
-⚙️ Характеристики
-
-Процессор — I7 9750H
-Видеокарта — RTX 2080
-Экран — 15.6" 1920×1080
-ОЗУ — 8 / 16 / 32 / 64 ГБ
-SSD — 256 / 512 / 1024 / 2048 ГБ
-
-💰 Цена указана за комплектацию без SSD и ОЗУ. Можно бесплатно установить свои комплектующие или подобрать нужный объём перед покупкой.
-
-✅ Полная проверка перед продажей
-✅ Trade-in
-✅ Рассрочка / сплит
-✅ Установка ОЗУ и SSD
-✅ Доставка по Москве и РФ
-
-📩 Напишите в чат — покажу ноутбук и подробно расскажу о состоянии.
-
-📌 Категории состояния:
-
-A — новые ноутбуки в заводской коробке и полном комплекте.
-B — б/у ноутбуки с небольшими следами использования, полностью исправные и протестированные.
-C — ноутбуки с техническими нюансами, но в рабочем состоянии. На такие варианты действует дополнительная скидка.</Description>
-    <Price>68500</Price>
-    <Currency>RUB</Currency>
-    <Condition>Б/у</Condition>
-    <BoxSealed>Нет</BoxSealed>
-    <AdType>Товар приобретен на продажу</AdType>
-    <Address>Москва, Будайский пр., 7к1</Address>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Vendor>RAZER</Vendor>
-    <Model>Другая</Model>
-    <DrivesConfig>SSD</DrivesConfig>
-    <DriveSize>512</DriveSize>
-    <RamSize>16</RamSize>
-    <OperatingSystem>Windows 11</OperatingSystem>
-    <Color>Чёрный</Color>
-    <Devicework>Включается</Devicework>
-    <AkbH>Больше 30 минут</AkbH>
-    <Set>Зарядное устройство|Коробка</Set>
-    <KBLayout>Есть кириллица</KBLayout>
-    <CaseCondition>Без дефектов</CaseCondition>
-    <ScreenCondition>Без дефектов</ScreenCondition>
-    <KBCondition>Без дефектов</KBCondition>
-    <Delivery>
-      <Option>Самовывоз с онлайн-оплатой</Option>
-    </Delivery>
-    <Quantity>1</Quantity>
-    <Promo>Manual</Promo>
-    <PromoManualOptions>
-      <Item>
-        <Bid>2</Bid>
-        <DailyLimit>1000</DailyLimit>
-      </Item>
-    </PromoManualOptions>
-    <Images>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787816874935_3836_1.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787816883801_3836_2.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787816894175_3836_3.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787816904206_3836_4.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787816916902_3836_5.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_1.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_2.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_3.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_4.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_5.png"/>
-    </Images>
-  </Ad>
-  <Ad>
-    <Id>danil_6a8cab13</Id>
-    <DateBegin>2026-08-27T15:34:00+03:00</DateBegin>
-    <AllowEmail>false</AllowEmail>
-    <Category>Ноутбуки</Category>
-    <Title>Ноутбук Asus FX95G 1660Ti</Title>
-    <Description>💻 Ноутбук Asus FX95G (1660Ti / i5-9300H)
-
-Перед заказом — просьба писать в чат!
-
-Здравствуйте! Меня зовут Данил. С 2016 года занимаюсь ноутбуками и помогаю подобрать проверенный вариант под задачи и бюджет.
-
-🧾 Напишите в чат «проверка ноутбука» — пришлю живое видео и чек-лист проведённых тестов.
-
-💻 О модели
-
-Asus FX95G — сбалансированный ноутбук для работы, учёбы и игр. Связка процессор i5-9300H и видеокарта 1660Ti уверенно тянет современные программы и игры. Ноутбук полностью протестирован и готов к работе.
-
-⚙️ Характеристики
-
-Процессор — i5-9300H
-Видеокарта — 1660Ti
-Экран — 15,6" 1920×1080
-ОЗУ — 8 / 16 / 32 / 64 ГБ
-SSD — 256 / 512 / 1024 / 2048 ГБ
-
-Цена указана за комплектацию без SSD и ОЗУ. Можно бесплатно установить свои комплектующие или подобрать нужный объём перед покупкой.
-
-✅ Полная проверка перед продажей
-✅ Trade-in
-✅ Рассрочка / сплит
-✅ Установка ОЗУ и SSD
-✅ Доставка по Москве и РФ
-
-📩 Напишите в чат — покажу ноутбук и подробно расскажу о состоянии.
-
-📌 Категории состояния:
-
-A — новые ноутбуки в заводской коробке и полном комплекте.
-B — б/у ноутбуки с небольшими следами использования, полностью исправные и протестированные.
-C — ноутбуки с техническими нюансами, но в рабочем состоянии. На такие варианты действует дополнительная скидка.</Description>
-    <Price>50000</Price>
-    <Currency>RUB</Currency>
-    <Condition>Б/у</Condition>
-    <BoxSealed>Нет</BoxSealed>
-    <AdType>Товар приобретен на продажу</AdType>
-    <Address>Москва, Будайский пр., 7к1</Address>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Vendor>Asus</Vendor>
-    <Model>Другая</Model>
-    <DrivesConfig>SSD</DrivesConfig>
-    <DriveSize>512</DriveSize>
-    <RamSize>16</RamSize>
-    <OperatingSystem>Windows 11</OperatingSystem>
-    <Color>Чёрный</Color>
-    <Devicework>Включается</Devicework>
-    <AkbH>Больше 30 минут</AkbH>
-    <Set>Зарядное устройство|Коробка</Set>
-    <KBLayout>Есть кириллица</KBLayout>
-    <CaseCondition>Без дефектов</CaseCondition>
-    <ScreenCondition>Без дефектов</ScreenCondition>
-    <KBCondition>Без дефектов</KBCondition>
-    <Delivery>
-      <Option>Самовывоз с онлайн-оплатой</Option>
-    </Delivery>
-    <Quantity>1</Quantity>
-    <Promo>Manual</Promo>
-    <PromoManualOptions>
-      <Item>
-        <Bid>2</Bid>
-        <DailyLimit>1000</DailyLimit>
-      </Item>
-    </PromoManualOptions>
-    <Images>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787828926134_3844_1.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787828936009_3844_2.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787828945734_3844_3.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787828954104_3844_4.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787828964056_3844_5.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_1.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_2.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_3.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_4.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_5.png"/>
-    </Images>
-  </Ad>
-  <Ad>
-    <Id>danil_82ce805e</Id>
-    <DateBegin>2026-08-27T15:03:00+03:00</DateBegin>
-    <AllowEmail>false</AllowEmail>
-    <Category>Ноутбуки</Category>
-    <Title>Ноутбук HP Omen 15 1060</Title>
-    <Description>💻 Ноутбук HP Omen 15 (1060 / i5-8300H)
-
-Перед заказом — просьба писать в чат!
-
-Здравствуйте! Меня зовут Данил. С 2016 года занимаюсь ноутбуками и помогаю подобрать проверенный вариант под задачи и бюджет.
-
-🧾 Напишите в чат «проверка ноутбука» — пришлю живое видео и чек-лист проведённых тестов.
-
-💻 О модели
-
-HP Omen 15 — сбалансированный ноутбук для работы, учёбы и игр. Связка процессор i5-8300H и видеокарта 1060 уверенно тянет современные программы и игры. Ноутбук полностью протестирован и готов к работе.
-
-⚙️ Характеристики
-
-Процессор — i5-8300H
-Видеокарта — 1060
-Экран — 15,6" 1920×1080
-ОЗУ — 8 / 16 / 32 / 64 ГБ
-SSD — 256 / 512 / 1024 / 2048 ГБ
-
-Цена указана за комплектацию без SSD и ОЗУ. Можно бесплатно установить свои комплектующие или подобрать нужный объём перед покупкой.
-
-✅ Полная проверка перед продажей
-✅ Trade-in
-✅ Рассрочка / сплит
-✅ Установка ОЗУ и SSD
-✅ Доставка по Москве и РФ
-
-📩 Напишите в чат — покажу ноутбук и подробно расскажу о состоянии.
-
-📌 Категории состояния:
-
-A — новые ноутбуки в заводской коробке и полном комплекте.
-B — б/у ноутбуки с небольшими следами использования, полностью исправные и протестированные.
-C — ноутбуки с техническими нюансами, но в рабочем состоянии. На такие варианты действует дополнительная скидка.</Description>
-    <Price>36500</Price>
-    <Currency>RUB</Currency>
-    <Condition>Б/у</Condition>
-    <BoxSealed>Нет</BoxSealed>
-    <AdType>Товар приобретен на продажу</AdType>
-    <Address>Москва, Будайский пр., 7к1</Address>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Vendor>HP</Vendor>
-    <Model>Другая</Model>
-    <DrivesConfig>SSD</DrivesConfig>
-    <DriveSize>512</DriveSize>
-    <RamSize>16</RamSize>
-    <OperatingSystem>Windows 11</OperatingSystem>
-    <Color>Чёрный</Color>
-    <Devicework>Включается</Devicework>
-    <AkbH>Больше 30 минут</AkbH>
-    <Set>Зарядное устройство|Коробка</Set>
-    <KBLayout>Есть кириллица</KBLayout>
-    <CaseCondition>Без дефектов</CaseCondition>
-    <ScreenCondition>Без дефектов</ScreenCondition>
-    <KBCondition>Без дефектов</KBCondition>
-    <Delivery>
-      <Option>Самовывоз с онлайн-оплатой</Option>
-    </Delivery>
-    <Quantity>1</Quantity>
-    <Promo>Manual</Promo>
-    <PromoManualOptions>
-      <Item>
-        <Bid>2</Bid>
-        <DailyLimit>1000</DailyLimit>
-      </Item>
-    </PromoManualOptions>
-    <Images>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787829333634_3845_1.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787829351983_3845_2.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787829360630_3845_3.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787829369208_3845_4.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787829378882_3845_5.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_1.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_2.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_3.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_4.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_5.png"/>
-    </Images>
-  </Ad>
-  <Ad>
-    <Id>danil_1af54fb0</Id>
-    <DateBegin>2026-08-27T15:03:00+03:00</DateBegin>
-    <AllowEmail>false</AllowEmail>
-    <Category>Ноутбуки</Category>
-    <Title>Игровой ноутбук Acer Nitro 5 AN515 RTX2060</Title>
-    <Description>💻 Игровой ноутбук Acer Nitro 5 AN515 (RTX2060 / i5-10300H)
-
-Перед заказом — просьба писать в чат!
-
-Здравствуйте! Меня зовут Данил. С 2016 года занимаюсь ноутбуками и помогаю подобрать проверенный вариант под задачи и бюджет.
-
-🧾 Напишите в чат «проверка ноутбука» — пришлю живое видео и чек-лист проведённых тестов.
-
-💻 О модели
-
-Acer Nitro 5 AN515 — сбалансированный ноутбук для работы, учёбы и игр. Связка процессор i5-10300H и видеокарта RTX2060 уверенно тянет современные программы и игры. Ноутбук полностью протестирован и готов к работе.
-
-⚙️ Характеристики
-
-Процессор — i5-10300H
-Видеокарта — RTX2060
-Экран — 15.6" 1920×1080
-ОЗУ — 8 / 16 / 32 / 64 ГБ
-SSD — 256 / 512 / 1024 / 2048 ГБ
-
-Цена указана за комплектацию без SSD и ОЗУ. Можно бесплатно установить свои комплектующие или подобрать нужный объём перед покупкой.
-
-✅ Полная проверка перед продажей
-✅ Trade-in
-✅ Рассрочка / сплит
-✅ Установка ОЗУ и SSD
-✅ Доставка по Москве и РФ
-
-📩 Напишите в чат — покажу ноутбук и подробно расскажу о состоянии.
-
-📌 Категории состояния:
-
-A — новые ноутбуки в заводской коробке и полном комплекте.
-B — б/у ноутбуки с небольшими следами использования, полностью исправные и протестированные.
-C — ноутбуки с техническими нюансами, но в рабочем состоянии. На такие варианты действует дополнительная скидка.</Description>
-    <Price>48500</Price>
-    <Currency>RUB</Currency>
-    <Condition>Б/у</Condition>
-    <BoxSealed>Нет</BoxSealed>
-    <AdType>Товар приобретен на продажу</AdType>
-    <Address>Москва, Будайский пр., 7к1</Address>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Vendor>Acer</Vendor>
-    <Model>Другая</Model>
-    <DrivesConfig>SSD</DrivesConfig>
-    <DriveSize>512</DriveSize>
-    <RamSize>16</RamSize>
-    <OperatingSystem>Windows 11</OperatingSystem>
-    <Color>Чёрный</Color>
-    <Devicework>Включается</Devicework>
-    <AkbH>Больше 30 минут</AkbH>
-    <Set>Зарядное устройство|Коробка</Set>
-    <KBLayout>Есть кириллица</KBLayout>
-    <CaseCondition>Без дефектов</CaseCondition>
-    <ScreenCondition>Без дефектов</ScreenCondition>
-    <KBCondition>Без дефектов</KBCondition>
-    <Delivery>
-      <Option>Самовывоз с онлайн-оплатой</Option>
-    </Delivery>
-    <Quantity>1</Quantity>
-    <Promo>Manual</Promo>
-    <PromoManualOptions>
-      <Item>
-        <Bid>2</Bid>
-        <DailyLimit>1000</DailyLimit>
-      </Item>
-    </PromoManualOptions>
-    <Images>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787829418024_3850_2.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787829426212_3850_3.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787829434576_3850_4.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787829444052_3850_5.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_1.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_2.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_3.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_4.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_5.png"/>
-    </Images>
-  </Ad>
-  <Ad>
     <Id>danil_f12dd10f</Id>
-    <DateBegin>2026-08-28T10:42:00+03:00</DateBegin>
+    <DateBegin>2026-08-28T12:21:00+03:00</DateBegin>
     <AllowEmail>false</AllowEmail>
     <Category>Ноутбуки</Category>
     <Title>Ноутбук Lenovo Xiaoxin Pro13 встроенная</Title>
@@ -417,11 +74,11 @@ C — ноутбуки с техническими нюансами, но в р�
       </Item>
     </PromoManualOptions>
     <Images>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899338832_3788_1.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899354600_3788_2.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899365496_3788_3.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899372547_3788_4.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899379655_3788_5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787903596919_3788_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787903602761_3788_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787903611342_3788_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787903617997_3788_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787903623701_3788_5.jpg"/>
       <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_1.png"/>
       <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_2.png"/>
       <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_3.png"/>
@@ -431,7 +88,7 @@ C — ноутбуки с техническими нюансами, но в р�
   </Ad>
   <Ad>
     <Id>danil_04bc313a</Id>
-    <DateBegin>2026-08-28T12:21:00+03:00</DateBegin>
+    <DateBegin>2026-08-28T13:50:00+03:00</DateBegin>
     <AllowEmail>false</AllowEmail>
     <Category>Ноутбуки</Category>
     <Title>Ноутбук Redmi Redmibookpro 15 Iris</Title>
@@ -502,267 +159,11 @@ C — ноутбуки с техническими нюансами, но в р�
       </Item>
     </PromoManualOptions>
     <Images>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899390026_3796_1.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899410055_3796_2.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899419083_3796_3.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899434851_3796_4.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899443180_3796_5.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_1.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_2.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_3.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_4.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_5.png"/>
-    </Images>
-  </Ad>
-  <Ad>
-    <Id>danil_98e70694</Id>
-    <DateBegin>2026-08-28T13:50:00+03:00</DateBegin>
-    <AllowEmail>false</AllowEmail>
-    <Category>Ноутбуки</Category>
-    <Title>Игровой ноутбук HASEE Z7-CT5NA GTX 1660TI</Title>
-    <Description>💻 Игровой ноутбук HASEE Z7-CT5NA (GTX 1660TI / I5 9300H)
-
-Перед заказом — просьба писать в чат!
-
-Здравствуйте! Меня зовут Данил. С 2016 года занимаюсь ноутбуками и помогаю подобрать проверенный вариант под задачи и бюджет.
-
-🧾 Напишите в чат «проверка ноутбука» — пришлю живое видео и чек-лист проведённых тестов.
-
-💻 О модели
-
-HASEE Z7-CT5NA — сбалансированный ноутбук для работы, учёбы и игр. Связка процессор I5 9300H и видеокарта GTX 1660TI уверенно тянет современные программы и игры. Ноутбук полностью протестирован и готов к работе.
-
-⚙️ Характеристики
-
-Процессор — I5 9300H
-Видеокарта — GTX 1660TI
-Экран — 15,6" 1920×1080
-ОЗУ — 8 / 16 / 32 / 64 ГБ
-SSD — 256 / 512 / 1024 / 2048 ГБ
-
-Цена указана за комплектацию без SSD и ОЗУ. Можно бесплатно установить свои комплектующие или подобрать нужный объём перед покупкой.
-
-✅ Полная проверка перед продажей
-✅ Trade-in
-✅ Рассрочка / сплит
-✅ Установка ОЗУ и SSD
-✅ Доставка по Москве и РФ
-
-📩 Напишите в чат — покажу ноутбук и подробно расскажу о состоянии.
-
-📌 Категории состояния:
-
-A — новые ноутбуки в заводской коробке и полном комплекте.
-B — б/у ноутбуки с небольшими следами использования, полностью исправные и протестированные.
-C — ноутбуки с техническими нюансами, но в рабочем состоянии. На такие варианты действует дополнительная скидка.</Description>
-    <Price>39000</Price>
-    <Currency>RUB</Currency>
-    <Condition>Б/у</Condition>
-    <BoxSealed>Нет</BoxSealed>
-    <AdType>Товар приобретен на продажу</AdType>
-    <Address>Москва, Будайский пр., 7к1</Address>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Model>Другая</Model>
-    <DrivesConfig>SSD</DrivesConfig>
-    <DriveSize>512</DriveSize>
-    <RamSize>16</RamSize>
-    <OperatingSystem>Windows 11</OperatingSystem>
-    <Color>Чёрный</Color>
-    <Devicework>Включается</Devicework>
-    <AkbH>Больше 30 минут</AkbH>
-    <Set>Зарядное устройство|Коробка</Set>
-    <KBLayout>Есть кириллица</KBLayout>
-    <CaseCondition>Без дефектов</CaseCondition>
-    <ScreenCondition>Без дефектов</ScreenCondition>
-    <KBCondition>Без дефектов</KBCondition>
-    <Delivery>
-      <Option>Самовывоз с онлайн-оплатой</Option>
-    </Delivery>
-    <Quantity>1</Quantity>
-    <Promo>Manual</Promo>
-    <PromoManualOptions>
-      <Item>
-        <Bid>2</Bid>
-        <DailyLimit>1000</DailyLimit>
-      </Item>
-    </PromoManualOptions>
-    <Images>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899452370_3810_1.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899462439_3810_2.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899470824_3810_3.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899480143_3810_4.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899488613_3810_5.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_1.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_2.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_3.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_4.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_5.png"/>
-    </Images>
-  </Ad>
-  <Ad>
-    <Id>danil_62d14403</Id>
-    <DateBegin>2026-08-28T15:34:00+03:00</DateBegin>
-    <AllowEmail>false</AllowEmail>
-    <Category>Ноутбуки</Category>
-    <Title>Игровой ноутбук RAZER 15 RTX 2070MQ</Title>
-    <Description>💻 Игровой ноутбук RAZER 15 (RTX 2070MQ / I7 8750H)
-
-Перед заказом — просьба писать в чат!
-
-Здравствуйте! Меня зовут Данил. С 2016 года занимаюсь ноутбуками и помогаю подобрать проверенный вариант под задачи и бюджет.
-
-🧾 Напишите в чат «проверка ноутбука» — пришлю живое видео и чек-лист проведённых тестов.
-
-💻 О модели
-
-RAZER 15 — сбалансированный ноутбук для работы, учёбы и игр. Связка процессор I7 8750H и видеокарта RTX 2070MQ уверенно тянет современные программы и игры. Ноутбук полностью протестирован и готов к работе.
-
-⚙️ Характеристики
-
-Процессор — I7 8750H
-Видеокарта — RTX 2070MQ
-Экран — 15.6" 1920×1080
-ОЗУ — 8 / 16 / 32 / 64 ГБ
-SSD — 256 / 512 / 1024 / 2048 ГБ
-
-Цена указана за комплектацию без SSD и ОЗУ. Можно бесплатно установить свои комплектующие или подобрать нужный объём перед покупкой.
-
-✅ Полная проверка перед продажей
-✅ Trade-in
-✅ Рассрочка / сплит
-✅ Установка ОЗУ и SSD
-✅ Доставка по Москве и РФ
-
-📩 Напишите в чат — покажу ноутбук и подробно расскажу о состоянии.
-
-📌 Категории состояния:
-
-A — новые ноутбуки в заводской коробке и полном комплекте.
-B — б/у ноутбуки с небольшими следами использования, полностью исправные и протестированные.
-C — ноутбуки с техническими нюансами, но в рабочем состоянии. На такие варианты действует дополнительная скидка.</Description>
-    <Price>59000</Price>
-    <Currency>RUB</Currency>
-    <Condition>Б/у</Condition>
-    <BoxSealed>Нет</BoxSealed>
-    <AdType>Товар приобретен на продажу</AdType>
-    <Address>Москва, Будайский пр., 7к1</Address>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Vendor>RAZER</Vendor>
-    <Model>Другая</Model>
-    <DrivesConfig>SSD</DrivesConfig>
-    <DriveSize>512</DriveSize>
-    <RamSize>16</RamSize>
-    <OperatingSystem>Windows 11</OperatingSystem>
-    <Color>Чёрный</Color>
-    <Devicework>Включается</Devicework>
-    <AkbH>Больше 30 минут</AkbH>
-    <Set>Зарядное устройство|Коробка</Set>
-    <KBLayout>Есть кириллица</KBLayout>
-    <CaseCondition>Без дефектов</CaseCondition>
-    <ScreenCondition>Без дефектов</ScreenCondition>
-    <KBCondition>Без дефектов</KBCondition>
-    <Delivery>
-      <Option>Самовывоз с онлайн-оплатой</Option>
-    </Delivery>
-    <Quantity>1</Quantity>
-    <Promo>Manual</Promo>
-    <PromoManualOptions>
-      <Item>
-        <Bid>2</Bid>
-        <DailyLimit>1000</DailyLimit>
-      </Item>
-    </PromoManualOptions>
-    <Images>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899501185_3820_1.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899510881_3820_2.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899522246_3820_3.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899532727_3820_4.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899540752_3820_5.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_1.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_2.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_3.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_4.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_5.png"/>
-    </Images>
-  </Ad>
-  <Ad>
-    <Id>danil_96f022c4</Id>
-    <DateBegin>2026-08-28T16:48:00+03:00</DateBegin>
-    <AllowEmail>false</AllowEmail>
-    <Category>Ноутбуки</Category>
-    <Title>Игровой ноутбук DELL Alienware M17R2 RTX 2070</Title>
-    <Description>💻 Игровой ноутбук DELL Alienware M17R2 (RTX 2070 / i7-7820hk)
-
-Перед заказом — просьба писать в чат!
-
-Здравствуйте! Меня зовут Данил. С 2016 года занимаюсь ноутбуками и помогаю подобрать проверенный вариант под задачи и бюджет.
-
-🧾 Напишите в чат «проверка ноутбука» — пришлю живое видео и чек-лист проведённых тестов.
-
-💻 О модели
-
-DELL Alienware M17R2 — сбалансированный ноутбук для работы, учёбы и игр. Связка процессор i7-7820hk и видеокарта RTX 2070 уверенно тянет современные программы и игры. Ноутбук полностью протестирован и готов к работе.
-
-⚙️ Характеристики
-
-Процессор — i7-7820hk
-Видеокарта — RTX 2070
-Экран — 17,3" Full-HD
-ОЗУ — 8 / 16 / 32 / 64 ГБ
-SSD — 256 / 512 / 1024 / 2048 ГБ
-
-Цена указана за комплектацию без SSD и ОЗУ. Можно бесплатно установить свои комплектующие или подобрать нужный объём перед покупкой.
-
-✅ Полная проверка перед продажей
-✅ Trade-in
-✅ Рассрочка / сплит
-✅ Установка ОЗУ и SSD
-✅ Доставка по Москве и РФ
-
-📩 Напишите в чат — покажу ноутбук и подробно расскажу о состоянии.
-
-📌 Категории состояния:
-
-A — новые ноутбуки в заводской коробке и полном комплекте.
-B — б/у ноутбуки с небольшими следами использования, полностью исправные и протестированные.
-C — ноутбуки с техническими нюансами, но в рабочем состоянии. На такие варианты действует дополнительная скидка.</Description>
-    <Price>62500</Price>
-    <Currency>RUB</Currency>
-    <Condition>Б/у</Condition>
-    <BoxSealed>Нет</BoxSealed>
-    <AdType>Товар приобретен на продажу</AdType>
-    <Address>Москва, Будайский пр., 7к1</Address>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Model>Другая</Model>
-    <DrivesConfig>SSD</DrivesConfig>
-    <DriveSize>512</DriveSize>
-    <RamSize>16</RamSize>
-    <OperatingSystem>Windows 11</OperatingSystem>
-    <Color>Чёрный</Color>
-    <Devicework>Включается</Devicework>
-    <AkbH>Больше 30 минут</AkbH>
-    <Set>Зарядное устройство|Коробка</Set>
-    <KBLayout>Есть кириллица</KBLayout>
-    <CaseCondition>Без дефектов</CaseCondition>
-    <ScreenCondition>Без дефектов</ScreenCondition>
-    <KBCondition>Без дефектов</KBCondition>
-    <Delivery>
-      <Option>Самовывоз с онлайн-оплатой</Option>
-    </Delivery>
-    <Quantity>1</Quantity>
-    <Promo>Manual</Promo>
-    <PromoManualOptions>
-      <Item>
-        <Bid>2</Bid>
-        <DailyLimit>1000</DailyLimit>
-      </Item>
-    </PromoManualOptions>
-    <Images>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899556670_3851_1.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899560794_3851_2.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899567307_3851_3.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899580605_3851_4.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899587168_3851_5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787903633842_3796_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787903639999_3796_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787903645747_3796_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787903651605_3796_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787903657920_3796_5.jpg"/>
       <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_1.png"/>
       <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_2.png"/>
       <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_3.png"/>
@@ -772,7 +173,7 @@ C — ноутбуки с техническими нюансами, но в р�
   </Ad>
   <Ad>
     <Id>danil_fda76cbc</Id>
-    <DateBegin>2026-08-28T18:05:00+03:00</DateBegin>
+    <DateBegin>2026-08-28T15:34:00+03:00</DateBegin>
     <AllowEmail>false</AllowEmail>
     <Category>Ноутбуки</Category>
     <Title>Игровой ноутбук HP OMEN 17-cb0001TX RTX2080</Title>
@@ -844,11 +245,11 @@ C — ноутбуки с техническими нюансами, но в р�
       </Item>
     </PromoManualOptions>
     <Images>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899598068_3872_1.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899606121_3872_2.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899614865_3872_3.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899626471_3872_4.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899636996_3872_5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787903727063_3872_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787903735550_3872_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787903744325_3872_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787903750526_3872_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787903757386_3872_5.jpg"/>
       <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_1.png"/>
       <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_2.png"/>
       <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_3.png"/>
@@ -858,7 +259,7 @@ C — ноутбуки с техническими нюансами, но в р�
   </Ad>
   <Ad>
     <Id>danil_808db5b8</Id>
-    <DateBegin>2026-08-28T19:27:00+03:00</DateBegin>
+    <DateBegin>2026-08-28T16:48:00+03:00</DateBegin>
     <AllowEmail>false</AllowEmail>
     <Category>Ноутбуки</Category>
     <Title>Игровой ноутбук MSI GP76 RTX3070ti</Title>
@@ -930,11 +331,10 @@ C — ноутбуки с техническими нюансами, но в р�
       </Item>
     </PromoManualOptions>
     <Images>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899650550_3875_1.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899655072_3875_2.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899663131_3875_3.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899671130_3875_4.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899680007_3875_5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787903768197_3875_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787903776881_3875_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787903783383_3875_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787903790156_3875_5.jpg"/>
       <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_1.png"/>
       <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_2.png"/>
       <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_3.png"/>
@@ -944,7 +344,7 @@ C — ноутбуки с техническими нюансами, но в р�
   </Ad>
   <Ad>
     <Id>danil_ec510ee2</Id>
-    <DateBegin>2026-08-28T20:40:00+03:00</DateBegin>
+    <DateBegin>2026-08-28T18:05:00+03:00</DateBegin>
     <AllowEmail>false</AllowEmail>
     <Category>Ноутбуки</Category>
     <Title>Игровой ноутбук DELL Alienware 17 r4 gTX1080</Title>
@@ -1016,11 +416,11 @@ C — ноутбуки с техническими нюансами, но в р�
       </Item>
     </PromoManualOptions>
     <Images>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899702580_3881_1.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899711096_3881_2.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899721087_3881_3.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899729050_3881_4.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899737163_3881_5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787903799343_3881_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787903805785_3881_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787903813210_3881_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787903820754_3881_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787903854707_3881_5.jpg"/>
       <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_1.png"/>
       <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_2.png"/>
       <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_3.png"/>
@@ -1030,7 +430,7 @@ C — ноутбуки с техническими нюансами, но в р�
   </Ad>
   <Ad>
     <Id>danil_e601a8e3</Id>
-    <DateBegin>2026-08-29T09:15:00+03:00</DateBegin>
+    <DateBegin>2026-08-28T19:27:00+03:00</DateBegin>
     <AllowEmail>false</AllowEmail>
     <Category>Ноутбуки</Category>
     <Title>Игровой ноутбук Hasee N960Kx RTX 3070</Title>
@@ -1101,11 +501,181 @@ C — ноутбуки с техническими нюансами, но в р�
       </Item>
     </PromoManualOptions>
     <Images>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899749775_3885_1.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899758011_3885_2.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899766033_3885_3.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899781926_3885_4.jpg"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787899789319_3885_5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787903864231_3885_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787903870784_3885_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787903876846_3885_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787903882745_3885_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787903888820_3885_5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_1.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_2.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_3.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_4.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_5.png"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>danil_3a38c4f1</Id>
+    <DateBegin>2026-08-28T20:40:00+03:00</DateBegin>
+    <AllowEmail>false</AllowEmail>
+    <Category>Ноутбуки</Category>
+    <Title>Ноутбук Acer Aspire A315 R540X</Title>
+    <Description>💻 Ноутбук Acer Aspire A315 (R540X / Ryzen 3-3200U)
+
+Перед заказом — просьба писать в чат!
+
+Здравствуйте! Меня зовут Данил. С 2016 года занимаюсь ноутбуками и помогаю подобрать проверенный вариант под задачи и бюджет.
+
+🧾 Напишите в чат «проверка ноутбука» — пришлю живое видео и чек-лист проведённых тестов.
+
+💻 О модели
+
+Acer Aspire A315 — сбалансированный ноутбук для работы, учёбы и игр. Связка процессор Ryzen 3-3200U и видеокарта R540X уверенно тянет современные программы и игры. Ноутбук полностью протестирован и готов к работе.
+
+⚙️ Характеристики
+
+Процессор — Ryzen 3-3200U
+Видеокарта — R540X
+Экран — 15,6" 1920×1080
+ОЗУ — 8 / 16 / 32 / 64 ГБ
+SSD — 256 / 512 / 1024 / 2048 ГБ
+
+Цена указана за комплектацию без SSD и ОЗУ. Можно бесплатно установить свои комплектующие или подобрать нужный объём перед покупкой.
+
+✅ Полная проверка перед продажей
+✅ Trade-in
+✅ Рассрочка / сплит
+✅ Установка ОЗУ и SSD
+✅ Доставка по Москве и РФ
+
+📩 Напишите в чат — покажу ноутбук и подробно расскажу о состоянии.
+
+📌 Категории состояния:
+
+A — новые ноутбуки в заводской коробке и полном комплекте.
+B — б/у ноутбуки с небольшими следами использования, полностью исправные и протестированные.
+C — ноутбуки с техническими нюансами, но в рабочем состоянии. На такие варианты действует дополнительная скидка.</Description>
+    <Price>15000</Price>
+    <Currency>RUB</Currency>
+    <Condition>Б/у</Condition>
+    <BoxSealed>Нет</BoxSealed>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Address>Москва, Будайский пр., 7к1</Address>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Vendor>Acer</Vendor>
+    <Model>Другая</Model>
+    <DrivesConfig>SSD</DrivesConfig>
+    <DriveSize>512</DriveSize>
+    <RamSize>16</RamSize>
+    <OperatingSystem>Windows 11</OperatingSystem>
+    <Color>Чёрный</Color>
+    <Devicework>Включается</Devicework>
+    <AkbH>Больше 30 минут</AkbH>
+    <Set>Зарядное устройство|Коробка</Set>
+    <KBLayout>Есть кириллица</KBLayout>
+    <CaseCondition>Без дефектов</CaseCondition>
+    <ScreenCondition>Без дефектов</ScreenCondition>
+    <KBCondition>Без дефектов</KBCondition>
+    <Delivery>
+      <Option>Самовывоз с онлайн-оплатой</Option>
+    </Delivery>
+    <Quantity>1</Quantity>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Bid>2</Bid>
+        <DailyLimit>1000</DailyLimit>
+      </Item>
+    </PromoManualOptions>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787903927798_3892_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787903934953_3892_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787903980037_3892_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787903987844_3892_5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_1.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_2.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_3.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_4.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_5.png"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>danil_16459716</Id>
+    <DateBegin>2026-08-29T09:15:00+03:00</DateBegin>
+    <AllowEmail>false</AllowEmail>
+    <Category>Ноутбуки</Category>
+    <Title>Игровой ноутбук Lyambda Lyambda RX 6650M</Title>
+    <Description>💻 Игровой ноутбук Lyambda (RX 6650M / R5 6600H)
+
+Перед заказом — просьба писать в чат!
+
+Здравствуйте! Меня зовут Данил. С 2016 года занимаюсь ноутбуками и помогаю подобрать проверенный вариант под задачи и бюджет.
+
+🧾 Напишите в чат «проверка ноутбука» — пришлю живое видео и чек-лист проведённых тестов.
+
+💻 О модели
+
+Lyambda — сбалансированный ноутбук для работы, учёбы и игр. Связка процессор R5 6600H и видеокарта RX 6650M уверенно тянет современные программы и игры. Ноутбук полностью протестирован и готов к работе.
+
+⚙️ Характеристики
+
+Процессор — R5 6600H
+Видеокарта — RX 6650M
+Экран — 15.6" 2560×1440
+ОЗУ — 8 / 16 / 32 / 64 ГБ
+SSD — 256 / 512 / 1024 / 2048 ГБ
+
+Цена указана за комплектацию без SSD и ОЗУ. Можно бесплатно установить свои комплектующие или подобрать нужный объём перед покупкой.
+
+✅ Полная проверка перед продажей
+✅ Trade-in
+✅ Рассрочка / сплит
+✅ Установка ОЗУ и SSD
+✅ Доставка по Москве и РФ
+
+📩 Напишите в чат — покажу ноутбук и подробно расскажу о состоянии.
+
+📌 Категории состояния:
+
+A — новые ноутбуки в заводской коробке и полном комплекте.
+B — б/у ноутбуки с небольшими следами использования, полностью исправные и протестированные.
+C — ноутбуки с техническими нюансами, но в рабочем состоянии. На такие варианты действует дополнительная скидка.</Description>
+    <Price>52000</Price>
+    <Currency>RUB</Currency>
+    <Condition>Б/у</Condition>
+    <BoxSealed>Нет</BoxSealed>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Address>Москва, Будайский пр., 7к1</Address>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Model>Другая</Model>
+    <DrivesConfig>SSD</DrivesConfig>
+    <DriveSize>512</DriveSize>
+    <RamSize>16</RamSize>
+    <OperatingSystem>Windows 11</OperatingSystem>
+    <Color>Чёрный</Color>
+    <Devicework>Включается</Devicework>
+    <AkbH>Больше 30 минут</AkbH>
+    <Set>Зарядное устройство|Коробка</Set>
+    <KBLayout>Есть кириллица</KBLayout>
+    <CaseCondition>Без дефектов</CaseCondition>
+    <ScreenCondition>Без дефектов</ScreenCondition>
+    <KBCondition>Без дефектов</KBCondition>
+    <Delivery>
+      <Option>Самовывоз с онлайн-оплатой</Option>
+    </Delivery>
+    <Quantity>1</Quantity>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Bid>2</Bid>
+        <DailyLimit>1000</DailyLimit>
+      </Item>
+    </PromoManualOptions>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787903998352_3893_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787904006110_3893_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787904013978_3893_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787904021037_3893_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1787904029149_3893_5.jpg"/>
       <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_1.png"/>
       <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_2.png"/>
       <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_3.png"/>
