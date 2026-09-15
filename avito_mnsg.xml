@@ -429,4 +429,89 @@ C — рабочие ноутбуки с техническими нюансам
       <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_3.png"/>
     </Images>
   </Ad>
+  <Ad>
+    <Id>danil_595e2527</Id>
+    <DateBegin>2026-09-16T09:15:00+03:00</DateBegin>
+    <AllowEmail>false</AllowEmail>
+    <Category>Ноутбуки</Category>
+    <Title>Игровой ноутбук Hasee S8 RTX4060</Title>
+    <Description>💻 Игровой ноутбук Hasee S8 — (RTX4060 / i7-12650H)
+
+ㅤㅤㅤㅤ• Трейд-ин • Рассрочка • Гарантия до 1 года •
+
+Hasee S8 — мощный игровой ноутбук на связке RTX4060 + i7-12650H.
+
+⚙️ Характеристики
+
+Процессор: i7-12650H
+Видеокарта: RTX4060
+Экран: 15,6" 1920×1080
+ОЗУ: 8 / 16 / 32 ГБ
+SSD: 256 / 512 / 1024 ГБ
+
+📩 Пишите нам — отправим живое видео Hasee S8, покажем состояние, температуры и результаты тестов.
+
+
+Актуальное наличие уточняйте перед приездом.
+
+✅ Диагностика и стресс-тесты
+✅ Проверка температур под нагрузкой
+✅ Гарантия до 1 года
+✅ Trade-in
+✅ Рассрочка / сплит
+✅ Доставка по Москве и РФ
+
+📦 Перед оформлением Авито Доставки согласуйте конкретный ноутбук и комплектацию с менеджером.
+
+💬 Напишите бюджет и игры — подберём 2–3 аналогичных по характеристикам варианта.
+
+📌 Категории состояния
+
+A — новые ноутбуки, заводская коробка и полный комплект.
+B — проверенные б/у ноутбуки. Возможны небольшие следы использования, которые не влияют на работу.
+C — рабочие ноутбуки с техническими нюансами и дополнительной скидкой — подробности уточняйте у менеджера.</Description>
+    <Price>70000</Price>
+    <Currency>RUB</Currency>
+    <Condition>Б/у</Condition>
+    <BoxSealed>Нет</BoxSealed>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Address>Москва, Будайский пр., 9</Address>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Model>Другая</Model>
+    <DrivesConfig>SSD</DrivesConfig>
+    <DriveSize>512</DriveSize>
+    <RamSize>16</RamSize>
+    <OperatingSystem>Windows 11</OperatingSystem>
+    <Color>Чёрный</Color>
+    <Devicework>Включается</Devicework>
+    <AkbH>Больше 30 минут</AkbH>
+    <Set>Зарядное устройство|Коробка</Set>
+    <KBLayout>Есть кириллица</KBLayout>
+    <CaseCondition>Без дефектов</CaseCondition>
+    <ScreenCondition>Без дефектов</ScreenCondition>
+    <KBCondition>Без дефектов</KBCondition>
+    <Delivery>
+      <Option>Самовывоз с онлайн-оплатой</Option>
+    </Delivery>
+    <Quantity>1</Quantity>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Bid>2</Bid>
+        <DailyLimit>1000</DailyLimit>
+      </Item>
+    </PromoManualOptions>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1789473648080_4078_1.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1789473650963_4078_2.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1789473653678_4078_3.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1789473656880_4078_4.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1789473659554_4078_5.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1789473665446_4078_6.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1789473669395_4078_7.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_1.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_2.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_3.png"/>
+    </Images>
+  </Ad>
 </Ads>
