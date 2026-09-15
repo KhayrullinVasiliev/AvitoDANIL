@@ -2,7 +2,7 @@
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
     <Id>danil_04324371</Id>
-    <DateBegin>2026-09-15T14:17:00+03:00</DateBegin>
+    <DateBegin>2026-09-15T15:34:00+03:00</DateBegin>
     <AllowEmail>false</AllowEmail>
     <Category>Ноутбуки</Category>
     <Title>Игровой ноутбук HP Pavillion GTX 1650</Title>
@@ -74,13 +74,16 @@ C — рабочие ноутбуки с техническими нюансам
       </Item>
     </PromoManualOptions>
     <Images>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1789467868378_4104_1.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1789467890618_4104_2.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1789467926508_4104_3.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1789467930260_4104_4.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1789467933286_4104_5.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1789468611897_4104_1.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1789468614864_4104_2.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1789468618141_4104_3.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1789468622570_4104_4.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1789468626739_4104_5.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1789468630030_4104_6.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1789468633507_4104_7.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_1.png"/>
       <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_2.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_4.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners/banner_3.png"/>
     </Images>
   </Ad>
 </Ads>
