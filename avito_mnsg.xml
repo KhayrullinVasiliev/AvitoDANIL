@@ -3366,4 +3366,91 @@ C — рабочие ноутбуки с техническими нюансам
       <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners_mnsg/banner_3.png"/>
     </Images>
   </Ad>
+  <Ad>
+    <Id>danil_acfe3b04</Id>
+    <DateBegin>2026-09-24T17:00:00+03:00</DateBegin>
+    <AllowEmail>false</AllowEmail>
+    <Category>Ноутбуки</Category>
+    <Title>Ноутбук Mechrevo Unbound 15X AMD Radeon 780M</Title>
+    <Description>💻 Ноутбук Mechrevo Unbound 15X — (AMD Radeon 780M / AMD Ryzen 7 8845H)
+
+ㅤㅤㅤㅤ• Трейд-ин • Рассрочка • Гарантия до 1 года •
+
+Mechrevo Unbound 15X — мощный игровой ноутбук на связке AMD Radeon 780M + AMD Ryzen 7 8845H.
+
+⚙️ Характеристики
+
+Процессор: AMD Ryzen 7 8845H
+Видеокарта: AMD Radeon 780M
+Экран: 15.3" 2560×1600
+ОЗУ: 8 / 16 / 32 ГБ
+SSD: 256 / 512 / 1024 ГБ
+
+📩 Пишите нам — отправим живое видео Mechrevo Unbound 15X, покажем состояние, температуры и результаты тестов.
+
+
+Актуальное наличие уточняйте перед приездом.
+
+✅ Диагностика и стресс-тесты
+✅ Проверка температур под нагрузкой
+✅ Гарантия до 1 года
+✅ Trade-in
+✅ Рассрочка / сплит
+✅ Доставка по Москве и РФ
+
+📦 Перед оформлением Авито Доставки согласуйте конкретный ноутбук и комплектацию с менеджером.
+
+💬 Напишите бюджет и игры — подберём 2–3 аналогичных по характеристикам варианта.
+
+📌 Категории состояния
+
+A — новые ноутбуки, заводская коробка и полный комплект.
+B — проверенные б/у ноутбуки. Возможны небольшие следы использования, которые не влияют на работу.
+C — рабочие ноутбуки с техническими нюансами и дополнительной скидкой — подробности уточняйте у менеджера.</Description>
+    <Price>69900</Price>
+    <Currency>RUB</Currency>
+    <Condition>Б/у</Condition>
+    <BoxSealed>Нет</BoxSealed>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Address>Москва, Будайский пр., 9</Address>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Model>Другая</Model>
+    <DrivesConfig>SSD</DrivesConfig>
+    <DriveSize>512</DriveSize>
+    <RamSize>16</RamSize>
+    <OperatingSystem>Windows 11</OperatingSystem>
+    <Color>Чёрный</Color>
+    <Devicework>Включается</Devicework>
+    <AkbH>Больше 30 минут</AkbH>
+    <Set>
+      <Option>Зарядное устройство</Option>
+      <Option>Коробка</Option>
+    </Set>
+    <KBLayout>Есть кириллица</KBLayout>
+    <CaseCondition>Без дефектов</CaseCondition>
+    <ScreenCondition>Без дефектов</ScreenCondition>
+    <KBCondition>Без дефектов</KBCondition>
+    <Delivery>
+      <Option>Самовывоз с онлайн-оплатой</Option>
+    </Delivery>
+    <Quantity>1</Quantity>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Bid>2</Bid>
+        <DailyLimit>1000</DailyLimit>
+      </Item>
+    </PromoManualOptions>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1790244498701_4208_1.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1790244528236_4208_2.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1790244564320_4208_3.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1790244567632_4208_4.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1790244570762_4208_5.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners_mnsg/banner_1.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners_mnsg/banner_2.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners_mnsg/banner_3.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners_mnsg/banner_5.png"/>
+    </Images>
+  </Ad>
 </Ads>
