@@ -8146,8 +8146,95 @@ C — рабочие ноутбуки с техническими нюансам
     </Images>
   </Ad>
   <Ad>
-    <Id>danil_d900d6fc</Id>
-    <DateBegin>2026-10-20T14:00:00+03:00</DateBegin>
+    <Id>danil_3b4aec91_ee9d8d7e2c8e</Id>
+    <DateBegin>2026-10-20T15:00:00+03:00</DateBegin>
+    <AllowEmail>false</AllowEmail>
+    <Category>Ноутбуки</Category>
+    <Title>Игровой ноутбук Msi Bravo msi bravo RTX 4050</Title>
+    <Description>💻 Игровой ноутбук Msi Bravo — (RTX 4050 / Ryzen 5 7535HS)
+
+ㅤㅤㅤㅤ• Трейд-ин • Рассрочка • Гарантия до 1 года •
+
+Msi Bravo — мощный игровой ноутбук на связке RTX 4050 + Ryzen 5 7535HS.
+
+⚙️ Характеристики
+
+Процессор: Ryzen 5 7535HS
+Видеокарта: RTX 4050
+Экран: 15.6" Full-HD
+ОЗУ: 8 / 16 / 32 ГБ
+SSD: 256 / 512 / 1024 ГБ
+
+📩 Пишите нам — отправим живое видео Msi Bravo, покажем состояние, температуры и результаты тестов.
+
+
+Актуальное наличие уточняйте перед приездом.
+
+✅ Диагностика и стресс-тесты
+✅ Проверка температур под нагрузкой
+✅ Гарантия до 1 года
+✅ Trade-in
+✅ Рассрочка / сплит
+✅ Доставка по Москве и РФ
+
+📦 Перед оформлением Авито Доставки согласуйте конкретный ноутбук и комплектацию с менеджером.
+
+💬 Напишите бюджет и игры — подберём 2–3 аналогичных по характеристикам варианта.
+
+📌 Категории состояния
+
+A — новые ноутбуки, заводская коробка и полный комплект.
+B — проверенные б/у ноутбуки. Возможны небольшие следы использования, которые не влияют на работу.
+C — рабочие ноутбуки с техническими нюансами и дополнительной скидкой — подробности уточняйте у менеджера.</Description>
+    <Price>63900</Price>
+    <Currency>RUB</Currency>
+    <Condition>Б/у</Condition>
+    <BoxSealed>Нет</BoxSealed>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Address>Москва, Будайский пр., 9</Address>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Model>Другая</Model>
+    <DrivesConfig>SSD</DrivesConfig>
+    <DriveSize>512</DriveSize>
+    <RamSize>16</RamSize>
+    <OperatingSystem>Windows 11</OperatingSystem>
+    <Color>Чёрный</Color>
+    <Devicework>Включается</Devicework>
+    <AkbH>Больше 30 минут</AkbH>
+    <Set>
+      <Option>Зарядное устройство</Option>
+      <Option>Коробка</Option>
+    </Set>
+    <KBLayout>Есть кириллица</KBLayout>
+    <CaseCondition>Без дефектов</CaseCondition>
+    <ScreenCondition>Без дефектов</ScreenCondition>
+    <KBCondition>Без дефектов</KBCondition>
+    <Delivery>
+      <Option>Самовывоз с онлайн-оплатой</Option>
+    </Delivery>
+    <Quantity>1</Quantity>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Bid>2</Bid>
+        <DailyLimit>1000</DailyLimit>
+      </Item>
+    </PromoManualOptions>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792494484142_2291_1.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792494502906_2291_2.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792494514374_2291_3.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792494519991_2291_4.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792494535092_2291_5.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792494558654_2291_6.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners_mnsg/banner_1.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners_mnsg/banner_3.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners_mnsg/banner_5.png"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>danil_d900d6fc_ee9c9c19afd5</Id>
+    <DateBegin>2026-10-20T17:00:00+03:00</DateBegin>
     <AllowEmail>false</AllowEmail>
     <Category>Ноутбуки</Category>
     <Title>Игровой ноутбук Gigabyte G5 KF RTX 4060</Title>
@@ -8222,108 +8309,19 @@ C — рабочие ноутбуки с техническими нюансам
       </Item>
     </PromoManualOptions>
     <Images>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792490075152_4113_1.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792490078870_4113_2.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792490085764_4113_3.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792490088408_4113_4.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792490090850_4113_5.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792490093454_4113_6.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792494688335_4113_1.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792494699735_4113_2.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792494703682_4113_3.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792494749044_4113_4.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792494753831_4113_5.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792494758032_4113_6.png"/>
       <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners_mnsg/banner_1.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners_mnsg/banner_2.png"/>
       <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners_mnsg/banner_3.png"/>
       <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners_mnsg/banner_5.png"/>
     </Images>
   </Ad>
   <Ad>
-    <Id>danil_3b4aec91</Id>
-    <DateBegin>2026-10-20T15:00:00+03:00</DateBegin>
-    <AllowEmail>false</AllowEmail>
-    <Category>Ноутбуки</Category>
-    <Title>Игровой ноутбук Msi Bravo RTX 4050</Title>
-    <Description>💻 Игровой ноутбук Msi Bravo — (RTX 4050 / Ryzen 5 7535HS)
-
-ㅤㅤㅤㅤ• Трейд-ин • Рассрочка • Гарантия до 1 года •
-
-Msi Bravo — мощный игровой ноутбук на связке RTX 4050 + Ryzen 5 7535HS.
-
-⚙️ Характеристики
-
-Процессор: Ryzen 5 7535HS
-Видеокарта: RTX 4050
-Экран: 15.6" Full-HD
-ОЗУ: 8 / 16 / 32 ГБ
-SSD: 256 / 512 / 1024 ГБ
-
-📩 Пишите нам — отправим живое видео Msi Bravo, покажем состояние, температуры и результаты тестов.
-
-
-Актуальное наличие уточняйте перед приездом.
-
-✅ Диагностика и стресс-тесты
-✅ Проверка температур под нагрузкой
-✅ Гарантия до 1 года
-✅ Trade-in
-✅ Рассрочка / сплит
-✅ Доставка по Москве и РФ
-
-📦 Перед оформлением Авито Доставки согласуйте конкретный ноутбук и комплектацию с менеджером.
-
-💬 Напишите бюджет и игры — подберём 2–3 аналогичных по характеристикам варианта.
-
-📌 Категории состояния
-
-A — новые ноутбуки, заводская коробка и полный комплект.
-B — проверенные б/у ноутбуки. Возможны небольшие следы использования, которые не влияют на работу.
-C — рабочие ноутбуки с техническими нюансами и дополнительной скидкой — подробности уточняйте у менеджера.</Description>
-    <Price>63900</Price>
-    <Currency>RUB</Currency>
-    <Condition>Б/у</Condition>
-    <BoxSealed>Нет</BoxSealed>
-    <AdType>Товар приобретен на продажу</AdType>
-    <Address>Москва, Будайский пр., 9</Address>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Model>Другая</Model>
-    <DrivesConfig>SSD</DrivesConfig>
-    <DriveSize>512</DriveSize>
-    <RamSize>16</RamSize>
-    <OperatingSystem>Windows 11</OperatingSystem>
-    <Color>Чёрный</Color>
-    <Devicework>Включается</Devicework>
-    <AkbH>Больше 30 минут</AkbH>
-    <Set>
-      <Option>Зарядное устройство</Option>
-      <Option>Коробка</Option>
-    </Set>
-    <KBLayout>Есть кириллица</KBLayout>
-    <CaseCondition>Без дефектов</CaseCondition>
-    <ScreenCondition>Без дефектов</ScreenCondition>
-    <KBCondition>Без дефектов</KBCondition>
-    <Delivery>
-      <Option>Самовывоз с онлайн-оплатой</Option>
-    </Delivery>
-    <Quantity>1</Quantity>
-    <Promo>Manual</Promo>
-    <PromoManualOptions>
-      <Item>
-        <Bid>2</Bid>
-        <DailyLimit>1000</DailyLimit>
-      </Item>
-    </PromoManualOptions>
-    <Images>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792490746419_2291_1.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792490748976_2291_2.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792490751598_2291_3.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792490755086_2291_4.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792490760710_2291_5.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792490764247_2291_6.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners_mnsg/banner_1.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners_mnsg/banner_2.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners_mnsg/banner_3.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners_mnsg/banner_5.png"/>
-    </Images>
-  </Ad>
-  <Ad>
-    <Id>danil_46f95f27</Id>
+    <Id>danil_46f95f27_76b81da0ef01</Id>
     <DateBegin>2026-10-20T16:00:00+03:00</DateBegin>
     <AllowEmail>false</AllowEmail>
     <Category>Ноутбуки</Category>
@@ -8399,14 +8397,101 @@ C — рабочие ноутбуки с техническими нюансам
       </Item>
     </PromoManualOptions>
     <Images>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792492611932_4193_1.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792492615739_4193_2.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792492619205_4193_3.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792492622488_4193_4.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792492627884_4193_5.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792492630844_4193_6.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792494766374_4193_1.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792494772034_4193_2.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792494778516_4193_3.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792494785211_4193_4.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792494791399_4193_5.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792494796265_4193_6.png"/>
       <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners_mnsg/banner_1.png"/>
-      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners_mnsg/banner_2.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners_mnsg/banner_3.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners_mnsg/banner_5.png"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>danil_e62f7491_0aa621e65be8</Id>
+    <DateBegin>2026-10-21T11:00:00+03:00</DateBegin>
+    <AllowEmail>false</AllowEmail>
+    <Category>Ноутбуки</Category>
+    <Title>Игровой ноутбук ASUS ROG GU603H RTX 3060</Title>
+    <Description>💻 Игровой ноутбук ASUS ROG GU603H — (RTX 3060 / I7-11800H)
+
+ㅤㅤㅤㅤ• Трейд-ин • Рассрочка • Гарантия до 1 года •
+
+ASUS ROG GU603H — мощный игровой ноутбук на связке RTX 3060 + I7-11800H.
+
+⚙️ Характеристики
+
+Процессор: I7-11800H
+Видеокарта: RTX 3060
+Экран: 16" 2560×1600
+ОЗУ: 8 / 16 / 32 ГБ
+SSD: 256 / 512 / 1024 ГБ
+
+📩 Пишите нам — отправим живое видео ASUS ROG GU603H, покажем состояние, температуры и результаты тестов.
+
+
+Актуальное наличие уточняйте перед приездом.
+
+✅ Диагностика и стресс-тесты
+✅ Проверка температур под нагрузкой
+✅ Гарантия до 1 года
+✅ Trade-in
+✅ Рассрочка / сплит
+✅ Доставка по Москве и РФ
+
+📦 Перед оформлением Авито Доставки согласуйте конкретный ноутбук и комплектацию с менеджером.
+
+💬 Напишите бюджет и игры — подберём 2–3 аналогичных по характеристикам варианта.
+
+📌 Категории состояния
+
+A — новые ноутбуки, заводская коробка и полный комплект.
+B — проверенные б/у ноутбуки. Возможны небольшие следы использования, которые не влияют на работу.
+C — рабочие ноутбуки с техническими нюансами и дополнительной скидкой — подробности уточняйте у менеджера.</Description>
+    <Price>75400</Price>
+    <Currency>RUB</Currency>
+    <Condition>Б/у</Condition>
+    <BoxSealed>Нет</BoxSealed>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Address>Москва, Будайский пр., 9</Address>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Vendor>ASUS</Vendor>
+    <Model>Другая</Model>
+    <DrivesConfig>SSD</DrivesConfig>
+    <DriveSize>512</DriveSize>
+    <RamSize>16</RamSize>
+    <OperatingSystem>Windows 11</OperatingSystem>
+    <Color>Чёрный</Color>
+    <Devicework>Включается</Devicework>
+    <AkbH>Больше 30 минут</AkbH>
+    <Set>
+      <Option>Зарядное устройство</Option>
+      <Option>Коробка</Option>
+    </Set>
+    <KBLayout>Есть кириллица</KBLayout>
+    <CaseCondition>Без дефектов</CaseCondition>
+    <ScreenCondition>Без дефектов</ScreenCondition>
+    <KBCondition>Без дефектов</KBCondition>
+    <Delivery>
+      <Option>Самовывоз с онлайн-оплатой</Option>
+    </Delivery>
+    <Quantity>1</Quantity>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Bid>2</Bid>
+        <DailyLimit>1000</DailyLimit>
+      </Item>
+    </PromoManualOptions>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792494802720_4235_1.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792494806497_4235_2.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792494814672_4235_3.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792494820367_4235_4.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792494823678_4235_5.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/photos/1792494827570_4235_6.png"/>
+      <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners_mnsg/banner_1.png"/>
       <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners_mnsg/banner_3.png"/>
       <Image url="https://raw.githubusercontent.com/KhayrullinVasiliev/AVITODANIL/main/banners_mnsg/banner_5.png"/>
     </Images>
